@@ -2,7 +2,7 @@
 
 I’m **Eze Ehziem**, an Edinburgh-based telecom infrastructure leader with 15+ years of experience in site acquisition, real estate and programme delivery. I use Power BI, Excel and SQL to analyse operational and commercial data and build reports that help teams decide where to act.
 
-- 🔭 **I’m currently working on** customer resolution at British Gas and building a portfolio of dashboards and data analysis projects.
+- 🔭 **I’m currently working on** customer experience at British Gas and building a portfolio of dashboards and data analysis projects.
 - 🌱 **I’m currently learning** how to make geographic data easier to explore through map-based visualisations.
 - 👯 **I’m looking to collaborate on** telecom rollout dashboards, site acquisition and permitting trackers, and operational analytics projects.
 - 💬 **Ask me about** tower infrastructure, land access, lease negotiations, permitting, programme reporting or Power BI dashboards.
